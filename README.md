@@ -4,6 +4,10 @@
 
 This project is an interactive Minesweeper game developed in C++ using the **FLTK** (Fast Light Toolkit) library. The main focus of this game is to identify and apply various Object-Oriented Design Patterns in the design and implementation of the game. The game includes features such as resetting the game and creating new game panels while allowing the player to continue playing in the existing ones.
 
+Below is the design diagram for the application.
+
+![Design Diagram](./oop-design-diagram.jpeg)
+
 ## Features
 
 - **Game Reset**: Allows the user to reset the current game to its initial state, clearing the board and redistributing the mines.
